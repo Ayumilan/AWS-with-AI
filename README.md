@@ -54,7 +54,7 @@ This repository contains a project that combines AI-driven hand gesture recognit
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/your-username/launch-ec2-ai.git](https://github.com/Ayumilan/Launch-EC2-Instance-Using-AI.git)
+   git clone https://github.com/Ayumilan/Launch-EC2-Instance-Using-AI.git
    ```
 
 2. Set up a web server (e.g., Apache) to serve the `mobile.html` file.
