@@ -94,9 +94,6 @@ This repository contains a project that combines AI-driven hand gesture recognit
 - Integrate with other cloud providers like Azure or Google Cloud.
 - Enhance the frontend UI for better usability.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ---
 
 ### Author
